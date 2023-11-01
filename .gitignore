@@ -8,3 +8,4 @@ config.cfg
 init.cfg
 restore.cfg
 servers.cfg
+*.gch
