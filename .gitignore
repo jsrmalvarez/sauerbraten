@@ -1,0 +1,10 @@
+*.swp
+*.swo
+.svn
+bin*
+src/sauer_client
+src/sauer_server
+config.cfg
+init.cfg
+restore.cfg
+servers.cfg

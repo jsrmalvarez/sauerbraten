@@ -1,0 +1,10 @@
+
+a =             one cube size                   closely approximates shape
+b =             one cube size                   loosely approximates shape
+
+c =          multiple cube sizes                closely approximates shape
+d =          multiple cube sizes                loosely approximates shape
+
+e = multiple cube sizes, with larger cubes      ~
+
+f = bad
